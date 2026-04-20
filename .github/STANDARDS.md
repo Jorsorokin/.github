@@ -37,3 +37,7 @@
 ## Documentation
 - Docstrings required for public functions, classes, and modules.
 - Keep docstrings concise and focused on the "why" and "what," not implementation details.
+
+## Git Workflow
+- All new code must be developed on a dedicated feature branch before merging to trunk.
+- When updating your branch with changes from trunk, prefer rebase over merge to keep history clean and linear.
